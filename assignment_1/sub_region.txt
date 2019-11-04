@@ -1,0 +1,27 @@
+Group 1
+Australia and New Zealand
+Western Europe
+Northern Europe
+Northern America
+
+Group 2
+Western Asia
+Eastern Asia
+Polynesia
+Southern Europe
+
+Group 3
+South-eastern Asia
+Micronesia
+Latin America and the Caribbean
+
+
+Group 4
+Melanesia
+Northern Africa
+Southern Asia
+Eastern Europe
+
+Group 5
+Central Asia
+Sub-Saharan Africa
